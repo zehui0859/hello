@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::count<<"hello world"<<std::endl;
+	std::cout<<"hello world"<<std::endl;
+	std::count<<"hello git"<<std::endl;
 	return 0;
 }
 
